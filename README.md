@@ -1,11 +1,11 @@
 # `ethereum-boilerplate-NFT-Marketplace`
 
-This Project is a fork of Ethereum Boilerplate and demostrates how you can build your own NFT Marketplace. This project of course work on any EVM-compatible blockchain such as Polygon, Avalanche, Binance Smart Chain and other such chains.
+Este proyecto es una bifurcación de Ethereum Boilerplate y demuestra cómo puede construir su propio NFT Marketplace. Este proyecto, por supuesto, funciona en cualquier cadena de bloques compatible con EVM, como Polygon, Avalanche, Binance Smart Chain y otras cadenas similares.
 
 ![Preview](preview.gif)
 
-# ⭐️ `Star us`
-If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
+# ⭐️ `Dejame una Estrella`
+este modelo te ayuda a construir dapps de Ethereum más rápido, inicia este proyecto, ¡COmparte el Conocimiento!
 
 # 🚀 Quick Start
 
